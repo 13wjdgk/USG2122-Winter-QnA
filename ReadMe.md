@@ -5,3 +5,4 @@
 4. 점심 먹고 싶당
 5. 잠온당,,
 6. push
+7. http://z.ebadaq.com:45095/CHonLine03/PairingForStudent
